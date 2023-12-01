@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    'aqa_aoc',
+    'day_1',
+]
+resolver = '2'
